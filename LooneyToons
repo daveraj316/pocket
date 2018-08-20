@@ -1,0 +1,124 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+  <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="bootstrap-4.0.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    
+
+    
+     <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="http://w9.collaboration.td.com/projects/CIA/Style%20Library/icons.css" >
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+      <!-- Custom style sheet to -->
+    <link rel="stylesheet" type="text/css" href="http://w9.collaboration.td.com/projects/CIA/SitePages/IAP.css">
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>   
+
+  <style>
+  
+  
+    
+    
+
+  </style>
+
+    <title>IP-Accelerator-LooneyToons</title>
+
+</head>
+<body>
+
+<div class="container-fluid bg-1 text-center" >
+
+  <br>
+  <br>
+               <h1 font-weight:bold>Looney Toons</h1>
+      
+  <br>
+<br>
+</div>
+	
+<div class="container-fluid text-center">
+      <div class="row">
+    
+    <div class="col-sm-2">  
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+         <a href="../select-accelerator.html" > <span class="glyphicon glyphicon-chevron-left" ></span></a>
+        </div>
+
+      	<div class="col-sm-4">  
+        <br>
+        <br>
+         <img   src="../SiteAssets/LooneyToons.png" id="accelerator"  >
+        </div>
+		
+      
+		<div class="col-sm-4 text-center" >
+			
+		
+		<br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+
+
+        <h3>Recommend something that would save the bank money - even a dollar.</h3>
+        </div>
+        
+        <div class="col-sm-2 middle">  
+     
+	<br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+         <!--<a href="../select-accelerator.html" id="nav" role="button"><img src="../SiteAssets/rightbutton2.png"  ></a>-->
+          <a href="../select-accelerator.html" vertical-align="middle" > <span class="glyphicon glyphicon-chevron-right" ></span></a>
+        </div>
+
+        
+
+</div>
+
+
+  <div class="container-fluid text-center ">
+  <br>
+        <br>
+
+        <a href="http://w9.collaboration.td.com/projects/CIA/SitePages/Pocket.html" class="btn btn-info" role="button";>Back to Main Menu</a>&nbsp;&nbsp;&nbsp;&nbsp;
+        
+        <a href="http://w9.collaboration.td.com/projects/CIA/SitePages/Mindfulness.html" class="btn btn-info" role="button" ;>Accept Accelerator</a>
+  </div>
+   
+
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="../bootstrap-4.0.0/dist/js/bootstrap.min.js"></script>
+</body>
+</html>
